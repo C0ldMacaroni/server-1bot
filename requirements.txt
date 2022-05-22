@@ -1,4 +1,4 @@
-git+https://github.com/Rapptz/discord.py@rewrite
+git+https://github.com/Rapptz/discord.py
 dnspython==1.16.0
 youtube_dl==2021.12.17
 async-timeout==3.0.1
